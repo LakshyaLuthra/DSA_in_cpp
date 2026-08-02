@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
