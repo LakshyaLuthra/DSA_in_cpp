@@ -14,6 +14,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -39,4 +41,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
