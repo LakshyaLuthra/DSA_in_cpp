@@ -23,8 +23,7 @@ public:
         if(root==NULL)return true;
         int lh=height(root->left);
         int rh=height(root->right);
-        if(lh>=rh && (lh-rh)>1)return false;
-        if(rh>=lh &&(rh-lh)>1)return false;
+        if(abs(lh-rh)>1)return false;
         else{
             return (isBalanced(root->left) && isBalanced(root->right));
         }
