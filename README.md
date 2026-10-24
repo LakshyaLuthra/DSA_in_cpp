@@ -52,6 +52,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0144-binary-tree-preorder-traversal) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0144-binary-tree-preorder-traversal) |
@@ -97,6 +100,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0701-insert-into-a-binary-search-tree) |
