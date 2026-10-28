@@ -57,6 +57,7 @@
 | [0110-balanced-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -70,6 +71,7 @@
 | [0110-balanced-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -83,6 +85,7 @@
 | [0110-balanced-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -91,6 +94,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
