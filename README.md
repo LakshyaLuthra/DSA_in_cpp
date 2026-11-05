@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
