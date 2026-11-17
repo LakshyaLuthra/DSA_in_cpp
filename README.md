@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0496-next-greater-element-i) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LakshyaLuthra/DSA_in_cpp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
